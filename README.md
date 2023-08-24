@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Archie
 - 👀 I’m interested in Many Things
 - 🌱 I’m currently learning Stuff
-- 💞️ I’m looking to collaborate on projects on C,Java,Python
+- 💞️ I’m looking to collaborate on projects in C, Java, Python
 - 📫 How to reach me ...
 
 <!---
